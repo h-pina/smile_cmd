@@ -1,0 +1,63 @@
+### About 
+
+Just a simple binary to print a smiley face to the terminal
+
+### Usage
+
+To use it, you can run
+```
+$ ./:D
+```
+
+### Installation
+
+Install it by copying the following snippet to your terminal
+```
+base64 -d <<EOF | gzip -d > :D && chmod +x :D
+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
+EOF
+```
+To use it globally, run
+```
+sudo mv :D /usr/local/bin
+```
+
+
